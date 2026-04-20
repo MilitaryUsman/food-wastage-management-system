@@ -1,0 +1,101 @@
+Provider_ID,Name,Type,Address,City,Contact
+1,Annapoorna Restaurant 95,Supermarket,"63, Civil Lines, Mumbai",Mumbai,+91-7457223434
+2,Daily Fresh 55,Restaurant,"8, Anna Salai, Mumbai",Mumbai,+91-7716440495
+3,Organic Basket 26,Bakery,"167, Station Road, Chennai",Chennai,+91-8374638893
+4,Daily Fresh 36,Restaurant,"195, Park Street, Ahmedabad",Ahmedabad,+91-9287665392
+5,Taste of India 20,Grocery Store,"196, Nehru Street, Pune",Pune,+91-7334922156
+6,Grand Hotel 46,Supermarket,"155, Gandhi Nagar, Kolkata",Kolkata,+91-9644715695
+7,Organic Basket 16,Hotel,"21, Station Road, Ahmedabad",Ahmedabad,+91-7960692397
+8,Daily Fresh 25,Bakery,"18, MG Road, Pune",Pune,+91-9166839871
+9,City Superstore 30,Restaurant,"98, Gandhi Nagar, Hyderabad",Hyderabad,+91-8485793320
+10,Morning Bakery 48,Supermarket,"54, Gandhi Nagar, Pune",Pune,+91-9299799593
+11,Star Caterers 82,Grocery Store,"137, Civil Lines, Mumbai",Mumbai,+91-7535470589
+12,Taste of India 82,Bakery,"143, Civil Lines, Kolkata",Kolkata,+91-9243352504
+13,Royal Catering 5,Supermarket,"103, Gandhi Nagar, Chennai",Chennai,+91-7216837653
+14,Green Grocer 84,Hotel,"102, Market Road, Pune",Pune,+91-7468144718
+15,Royal Catering 96,Catering Service,"138, Gandhi Nagar, Delhi",Delhi,+91-9447886622
+16,Daily Fresh 52,Supermarket,"57, Park Street, Kolkata",Kolkata,+91-8669674686
+17,Coastal Foods 7,Restaurant,"40, Park Street, Mumbai",Mumbai,+91-9595499192
+18,Star Caterers 9,Hotel,"98, Lake View, Kolkata",Kolkata,+91-8533779352
+19,Organic Basket 2,Bakery,"185, Anna Salai, Hyderabad",Hyderabad,+91-9233880381
+20,Coastal Foods 83,Supermarket,"29, Gandhi Nagar, Hyderabad",Hyderabad,+91-8424630730
+21,Annapoorna Restaurant 93,Bakery,"68, Station Road, Ahmedabad",Ahmedabad,+91-9496733416
+22,Delicious Corner 39,Bakery,"130, Lake View, Mumbai",Mumbai,+91-7651730032
+23,Coastal Foods 21,Catering Service,"200, Station Road, Pune",Pune,+91-7001888504
+24,Heritage Restaurant 3,Restaurant,"93, Gandhi Nagar, Pune",Pune,+91-7784617592
+25,Daily Fresh 11,Restaurant,"188, Market Road, Bangalore",Bangalore,+91-9673919071
+26,Spice Garden 85,Hotel,"141, Park Street, Delhi",Delhi,+91-7868579163
+27,Green Grocer 70,Bakery,"177, Civil Lines, Kolkata",Kolkata,+91-9336150857
+28,Healthy Bites 84,Supermarket,"113, Station Road, Kolkata",Kolkata,+91-8479425860
+29,Royal Catering 9,Supermarket,"6, Lake View, Bangalore",Bangalore,+91-8815040161
+30,Annapoorna Restaurant 10,Bakery,"162, MG Road, Bangalore",Bangalore,+91-7750118834
+31,Family Kitchen 10,Catering Service,"61, Gandhi Nagar, Chennai",Chennai,+91-9192173624
+32,Organic Basket 17,Bakery,"147, Lake View, Bangalore",Bangalore,+91-8548841850
+33,Eastern Flavors 25,Restaurant,"25, Rajaji Road, Ahmedabad",Ahmedabad,+91-8160965519
+34,Western Spices 94,Restaurant,"173, Anna Salai, Kolkata",Kolkata,+91-7198662772
+35,Grand Hotel 32,Grocery Store,"49, Station Road, Pune",Pune,+91-8470028373
+36,Morning Bakery 36,Hotel,"64, Anna Salai, Kolkata",Kolkata,+91-8452082132
+37,Fresh Mart 84,Catering Service,"4, Anna Salai, Mumbai",Mumbai,+91-9469240982
+38,Eastern Flavors 63,Hotel,"55, Rajaji Road, Delhi",Delhi,+91-9957117685
+39,Sunshine Bakery 1,Hotel,"68, Market Road, Delhi",Delhi,+91-7934765444
+40,Spice Garden 25,Supermarket,"56, MG Road, Ahmedabad",Ahmedabad,+91-8897881066
+41,Northern Dhaba 41,Restaurant,"13, Lake View, Chennai",Chennai,+91-8562375909
+42,Fresh Mart 66,Restaurant,"48, Anna Salai, Delhi",Delhi,+91-8949818907
+43,Sunshine Bakery 16,Catering Service,"64, Lake View, Bangalore",Bangalore,+91-8948115209
+44,Eastern Flavors 85,Catering Service,"145, Station Road, Mumbai",Mumbai,+91-8036644179
+45,Healthy Bites 92,Supermarket,"62, Gandhi Nagar, Bangalore",Bangalore,+91-8296927154
+46,Western Spices 41,Restaurant,"3, Market Road, Hyderabad",Hyderabad,+91-9035483792
+47,City Superstore 69,Grocery Store,"130, Gandhi Nagar, Mumbai",Mumbai,+91-7434055745
+48,Royal Catering 48,Supermarket,"41, Market Road, Mumbai",Mumbai,+91-9732081200
+49,Star Caterers 84,Catering Service,"3, Station Road, Hyderabad",Hyderabad,+91-7981096951
+50,Spice Garden 34,Restaurant,"28, Station Road, Mumbai",Mumbai,+91-7509345697
+51,Star Caterers 27,Bakery,"88, Civil Lines, Hyderabad",Hyderabad,+91-9252793130
+52,Food Palace 63,Supermarket,"14, Anna Salai, Hyderabad",Hyderabad,+91-9078465518
+53,Fresh Mart 1,Supermarket,"198, Park Street, Hyderabad",Hyderabad,+91-9087644335
+54,Northern Dhaba 57,Catering Service,"181, Rajaji Road, Delhi",Delhi,+91-8837911267
+55,City Superstore 89,Grocery Store,"140, MG Road, Mumbai",Mumbai,+91-9734858393
+56,Eastern Flavors 17,Restaurant,"79, Nehru Street, Delhi",Delhi,+91-9945715229
+57,Green Grocer 88,Grocery Store,"171, Anna Salai, Pune",Pune,+91-8158983385
+58,Star Caterers 96,Grocery Store,"61, Park Street, Kolkata",Kolkata,+91-9621033206
+59,Annapoorna Restaurant 23,Bakery,"86, Rajaji Road, Kolkata",Kolkata,+91-9628797806
+60,Taste of India 21,Bakery,"28, Rajaji Road, Bangalore",Bangalore,+91-9857915075
+61,Royal Catering 26,Hotel,"90, Gandhi Nagar, Ahmedabad",Ahmedabad,+91-9688739831
+62,Annapoorna Restaurant 85,Grocery Store,"103, Nehru Street, Bangalore",Bangalore,+91-7912919099
+63,Metro Mart 83,Catering Service,"103, Station Road, Hyderabad",Hyderabad,+91-8085113617
+64,Taste of India 23,Catering Service,"68, MG Road, Mumbai",Mumbai,+91-7355288193
+65,Metro Mart 94,Supermarket,"112, Lake View, Kolkata",Kolkata,+91-8675825157
+66,Daily Fresh 25,Supermarket,"12, Rajaji Road, Kolkata",Kolkata,+91-7005578146
+67,Metro Mart 56,Restaurant,"171, Nehru Street, Bangalore",Bangalore,+91-9041951145
+68,Northern Dhaba 39,Catering Service,"80, Rajaji Road, Mumbai",Mumbai,+91-8068862743
+69,Organic Basket 17,Grocery Store,"108, Rajaji Road, Hyderabad",Hyderabad,+91-9219432810
+70,Sunshine Bakery 71,Restaurant,"78, Gandhi Nagar, Hyderabad",Hyderabad,+91-7688766346
+71,Western Spices 57,Hotel,"173, Civil Lines, Pune",Pune,+91-8675072021
+72,Healthy Bites 11,Supermarket,"132, Lake View, Delhi",Delhi,+91-8098322240
+73,Healthy Bites 40,Grocery Store,"51, Park Street, Bangalore",Bangalore,+91-7080016057
+74,Heritage Restaurant 79,Restaurant,"117, Rajaji Road, Bangalore",Bangalore,+91-9903692544
+75,Southern Kitchen 90,Hotel,"127, Rajaji Road, Bangalore",Bangalore,+91-7799429342
+76,Coastal Foods 99,Restaurant,"200, Rajaji Road, Chennai",Chennai,+91-7717033053
+77,Fresh Mart 72,Grocery Store,"32, Market Road, Ahmedabad",Ahmedabad,+91-7436970901
+78,Coastal Foods 57,Catering Service,"185, Station Road, Pune",Pune,+91-8398381810
+79,Morning Bakery 96,Hotel,"116, Gandhi Nagar, Ahmedabad",Ahmedabad,+91-9463442406
+80,Coastal Foods 67,Hotel,"161, Civil Lines, Hyderabad",Hyderabad,+91-7899867654
+81,Southern Kitchen 37,Grocery Store,"70, Nehru Street, Mumbai",Mumbai,+91-8047680798
+82,Spice Garden 20,Grocery Store,"99, Park Street, Mumbai",Mumbai,+91-9314738043
+83,Eastern Flavors 53,Supermarket,"139, Market Road, Mumbai",Mumbai,+91-8362418161
+84,Eastern Flavors 50,Catering Service,"179, MG Road, Bangalore",Bangalore,+91-9807385456
+85,Heritage Restaurant 1,Supermarket,"77, Rajaji Road, Kolkata",Kolkata,+91-9796564921
+86,Heritage Restaurant 29,Supermarket,"112, Market Road, Bangalore",Bangalore,+91-7095160968
+87,Healthy Bites 87,Hotel,"186, Park Street, Pune",Pune,+91-9754171261
+88,Star Caterers 69,Restaurant,"101, Lake View, Delhi",Delhi,+91-8849396900
+89,City Superstore 83,Hotel,"35, Market Road, Chennai",Chennai,+91-7595416590
+90,Sunshine Bakery 42,Grocery Store,"117, Nehru Street, Hyderabad",Hyderabad,+91-8105959692
+91,Coastal Foods 54,Supermarket,"21, Market Road, Hyderabad",Hyderabad,+91-7063580702
+92,Metro Mart 29,Bakery,"18, MG Road, Chennai",Chennai,+91-9471414067
+93,Green Grocer 3,Catering Service,"40, Civil Lines, Bangalore",Bangalore,+91-7413672070
+94,Daily Fresh 28,Hotel,"180, Gandhi Nagar, Mumbai",Mumbai,+91-9512958351
+95,Star Caterers 78,Bakery,"184, Anna Salai, Delhi",Delhi,+91-9548631465
+96,Grand Hotel 75,Restaurant,"80, Lake View, Hyderabad",Hyderabad,+91-9219559192
+97,Southern Kitchen 26,Restaurant,"152, Civil Lines, Kolkata",Kolkata,+91-7333949529
+98,Daily Fresh 6,Supermarket,"137, Rajaji Road, Mumbai",Mumbai,+91-9167658571
+99,Food Palace 83,Supermarket,"4, Rajaji Road, Mumbai",Mumbai,+91-9694674251
+100,Eastern Flavors 47,Bakery,"118, Park Street, Mumbai",Mumbai,+91-8427033086
